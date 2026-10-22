@@ -1,0 +1,17 @@
+# Render.com blueprint: New + > Blueprint, point it at your repo.
+# A persistent disk keeps accounts, tests and results between restarts
+# (Render disks need a paid instance type).
+services:
+  - type: web
+    name: sat-platform
+    runtime: node
+    plan: starter
+    buildCommand: echo "nothing to build"
+    startCommand: node server.js
+    disk:
+      name: sat-data
+      mountPath: /data
+      sizeGB: 1
+    envVars:
+      - key: DATA_DIR
+        value: /data

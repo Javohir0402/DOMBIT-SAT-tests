@@ -1,0 +1,203 @@
+{
+ "id": "mock1",
+ "title": "Full Mock Test 1",
+ "type": "Full mock test",
+ "pw": "1",
+ "mods": 2,
+ "tEn": 32,
+ "tMa": 35,
+ "qs": [
+  {
+   "sec": "english",
+   "mod": 1,
+   "type": "mc",
+   "text": "The researcher’s findings were considered ______ because other laboratories repeated her experiment and obtained the same results.\n\nWhich choice completes the text with the most logical and precise word or phrase?",
+   "ch": [
+    "controversial",
+    "unreliable",
+    "trustworthy",
+    "incomplete"
+   ],
+   "ans": 2
+  },
+  {
+   "sec": "english",
+   "mod": 1,
+   "type": "mc",
+   "text": "The museum’s newest exhibit ______ rare maps, handwritten letters, and photographs from the nineteenth century.\n\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+   "ch": [
+    "features",
+    "feature",
+    "have featured",
+    "are featuring"
+   ],
+   "ans": 0
+  },
+  {
+   "sec": "english",
+   "mod": 1,
+   "type": "mc",
+   "text": "Many people assume that cacti grow only in deserts. ______ several species thrive in tropical rainforests, where they grow on tree branches.\n\nWhich choice completes the text with the most logical transition?",
+   "ch": [
+    "Similarly,",
+    "However,",
+    "Therefore,",
+    "For instance,"
+   ],
+   "ans": 1
+  },
+  {
+   "sec": "english",
+   "mod": 1,
+   "type": "mc",
+   "text": "Honeybees that find a rich source of nectar return to the hive and perform a “waggle dance.” The angle of the dance relative to vertical shows other bees the direction of the food in relation to the sun, and the length of the dance indicates how far away the food is.\n\nAccording to the text, what does the length of a bee’s waggle dance communicate?",
+   "ch": [
+    "The quality of the nectar",
+    "The direction of the food",
+    "The time of day",
+    "The distance to the food"
+   ],
+   "ans": 3
+  },
+  {
+   "sec": "english",
+   "mod": 2,
+   "type": "mc",
+   "text": "Although the new recycling policy was ______ by many residents at first, most came to appreciate its convenience within a few months.\n\nWhich choice completes the text with the most logical and precise word or phrase?",
+   "ch": [
+    "praised",
+    "resisted",
+    "drafted",
+    "funded"
+   ],
+   "ans": 1
+  },
+  {
+   "sec": "english",
+   "mod": 2,
+   "type": "mc",
+   "text": "The author, ______ is best known for her nature poetry, published her first novel last year.\n\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+   "ch": [
+    "whom",
+    "which",
+    "whose",
+    "who"
+   ],
+   "ans": 3
+  },
+  {
+   "sec": "english",
+   "mod": 2,
+   "type": "mc",
+   "text": "Each of the students in the robotics club ______ responsible for maintaining one part of the team’s robot.\n\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+   "ch": [
+    "are",
+    "were",
+    "is",
+    "have been"
+   ],
+   "ans": 2
+  },
+  {
+   "sec": "english",
+   "mod": 2,
+   "type": "mc",
+   "text": "Researchers compared two groups of students preparing for the same exam. One group studied in several short sessions spread over two weeks; the other studied for the same total time in a single session the night before. A week after the exam, both groups took a surprise follow-up quiz, and the first group scored substantially higher.\n\nWhich conclusion is best supported by the text?",
+   "ch": [
+    "Short study sessions are more enjoyable than long ones.",
+    "Studying the night before an exam is never effective.",
+    "Students should study for no more than two weeks.",
+    "Spreading study time over several sessions can improve long-term retention."
+   ],
+   "ans": 3
+  },
+  {
+   "sec": "math",
+   "mod": 1,
+   "type": "open",
+   "text": "If 3x + 5 = 20, what is the value of x?",
+   "ans": [
+    "5"
+   ]
+  },
+  {
+   "sec": "math",
+   "mod": 1,
+   "type": "mc",
+   "text": "The function f is defined by f(x) = x^{2} - 2x + 1. What is the value of f(3)?",
+   "ch": [
+    "2",
+    "4",
+    "6",
+    "8"
+   ],
+   "ans": 1
+  },
+  {
+   "sec": "math",
+   "mod": 1,
+   "type": "mc",
+   "text": "A circle has a radius of 5. What is the area of the circle?",
+   "ch": [
+    "5\\pi",
+    "10\\pi",
+    "25\\pi",
+    "50\\pi"
+   ],
+   "ans": 2
+  },
+  {
+   "sec": "math",
+   "mod": 1,
+   "type": "open",
+   "text": "A jacket originally priced at $80 is on sale for 25% off. What is the sale price, in dollars?",
+   "ans": [
+    "60"
+   ]
+  },
+  {
+   "sec": "math",
+   "mod": 2,
+   "type": "mc",
+   "text": "Which of the following is a solution to the equation x^{2} - 5x + 6 = 0?",
+   "ch": [
+    "1",
+    "2",
+    "4",
+    "6"
+   ],
+   "ans": 1
+  },
+  {
+   "sec": "math",
+   "mod": 2,
+   "type": "open",
+   "text": "x + y = 10 and x - y = 4. What is the value of x?",
+   "ans": [
+    "7"
+   ]
+  },
+  {
+   "sec": "math",
+   "mod": 2,
+   "type": "open",
+   "text": "\\sqrt{x + 7} = 4. What is the value of x?",
+   "ans": [
+    "9"
+   ]
+  },
+  {
+   "sec": "math",
+   "mod": 2,
+   "type": "mc",
+   "text": "A right triangle has legs of length 6 and 8. What is the length of its hypotenuse?",
+   "ch": [
+    "9",
+    "10",
+    "12",
+    "14"
+   ],
+   "ans": 1
+  }
+ ]
+}
